@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 3c06cb4d22a95f5489864bc4cbcf53b3
+timeCreated: 1501490296
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: curve3
+    100002: Frayed_Wire_only:curve3
+    100004: //RootNode
+    100006: pCube74
+    100008: pCube79
+    100010: polySurface73
+    100012: polySurface75
+    100014: polySurface76
+    100016: polySurface77
+    100018: polySurface78
+    100020: polySurface80
+    100022: polySurface86
+    100024: polySurface87
+    100026: polySurface88
+    100028: polySurface89
+    100030: polySurface90
+    100032: Repaired_Wire_only:curve3
+    100034: Repaired_Wire_only:pPipe1
+    400000: curve3
+    400002: Frayed_Wire_only:curve3
+    400004: //RootNode
+    400006: pCube74
+    400008: pCube79
+    400010: polySurface73
+    400012: polySurface75
+    400014: polySurface76
+    400016: polySurface77
+    400018: polySurface78
+    400020: polySurface80
+    400022: polySurface86
+    400024: polySurface87
+    400026: polySurface88
+    400028: polySurface89
+    400030: polySurface90
+    400032: Repaired_Wire_only:curve3
+    400034: Repaired_Wire_only:pPipe1
+    2300000: pCube79
+    2300002: polySurface73
+    2300004: polySurface75
+    2300006: polySurface76
+    2300008: polySurface77
+    2300010: polySurface78
+    2300012: polySurface80
+    2300014: polySurface86
+    2300016: polySurface87
+    2300018: polySurface88
+    2300020: polySurface89
+    2300022: polySurface90
+    2300024: Repaired_Wire_only:pPipe1
+    3300000: pCube79
+    3300002: polySurface73
+    3300004: polySurface75
+    3300006: polySurface76
+    3300008: polySurface77
+    3300010: polySurface78
+    3300012: polySurface80
+    3300014: polySurface86
+    3300016: polySurface87
+    3300018: polySurface88
+    3300020: polySurface89
+    3300022: polySurface90
+    3300024: Repaired_Wire_only:pPipe1
+    4300000: Repaired_Wire_only:pPipe1
+    4300002: polySurface73
+    4300004: polySurface75
+    4300006: polySurface76
+    4300008: polySurface77
+    4300010: polySurface78
+    4300012: polySurface86
+    4300014: polySurface87
+    4300016: polySurface88
+    4300018: polySurface89
+    4300020: polySurface90
+    4300022: polySurface80
+    4300024: pCube79
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
